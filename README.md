@@ -194,5 +194,5 @@ A model that predicted nothing correctly was brought to a usable, competitive cl
 ## 👤 Author
 
 **Vikas Ajay Vishwakarma**
-BSc IT Student | Aspiring Data Scientist
-🔗 [GitHub](https://github.com/codewithvikas96-ui) | 🎯 [Fiverr](https://www.fiverr.com/vikas_vish23)
+BSc IT Student | Aspiring Data Scientist  
+🔗 [GitHub](https://github.com/codewithvikas96-ui)
